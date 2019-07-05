@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/image-converter
+image-converter.so
+image-converter.dylib
+image-converter.dll
+image-converter.a
+image-converter.lib
+image-converter-test-*
+*.exe
+*.o
+*.obj
+*.lst
